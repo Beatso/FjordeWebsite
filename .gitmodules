@@ -1,0 +1,3 @@
+[submodule "themes/iris"]
+	path = themes/iris
+	url = https://github.com/peaceiris/hugo-theme-iris
