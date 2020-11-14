@@ -1,0 +1,3 @@
+[submodule "themes/dimension"]
+	path = themes/dimension
+	url = https://github.com/Fjorde/website-theme
